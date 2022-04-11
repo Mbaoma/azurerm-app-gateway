@@ -84,6 +84,6 @@ Outputs:
 [values specified in the output file]
 ```
 
-<img width="1298" alt="image" src="https://user-images.githubusercontent.com/49791498/162847203-9b11cb77-4679-4cef-82bb-bfc73eedae5c.png">
+<img width="1021" alt="image" src="https://user-images.githubusercontent.com/49791498/162849593-2af2a737-b540-40b4-a488-7fc1db96bb75.png">
 
 A better practice would be to use the ID of the secret key vault.
